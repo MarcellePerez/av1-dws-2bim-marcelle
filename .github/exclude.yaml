@@ -1,0 +1,6 @@
+exclude: true
+repository: MarcellePerez/av1-dws-2bim-marcelle
+contexts:
+  ci: true
+  code_scanning: true
+  code_search: true
